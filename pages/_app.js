@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Join Face  Time</title>
+        <title>Join Video Call</title>
       </Head>
 
       <ToastContainer />

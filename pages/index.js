@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div>Joinfacetime</div>;
+  return <div>Join Video call</div>;
 }
